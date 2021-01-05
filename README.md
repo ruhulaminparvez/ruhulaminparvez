@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="350" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/dev.gif">
+<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web4.gif">
 
 # Ruhul Amin Parvez 😀
 
@@ -24,6 +24,8 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 - 💬 Ask me about #Python #Django
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
+
+<img width="350" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/dev.gif">
 
 ## Skills 🗽
 
