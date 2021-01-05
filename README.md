@@ -30,9 +30,6 @@ I’m looking to apply my skills as part of a fast-paced, quality-driven team in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
 
-[![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12)](https://github.com/Ruhul12/github-readme-stats)
-
-![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&count_private=true)
 ![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
 
 
