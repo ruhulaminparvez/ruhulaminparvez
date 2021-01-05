@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Ruhul Amin Parvez
-
 <!--
 **Ruhul12/Ruhul12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +17,7 @@ Here are some ideas to get you started:
 
 # Ruhul Amin Parvez 😀
 
-Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-learner django developer from Dhaka, 🇧🇩 🌍. Now I'm a final year student of undergrad Computer Science and Engineering 👨‍🎓. 
-I love to work with new technologies and developing web applications 🔭. 
-Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. 
-I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
+Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-learner django developer from Dhaka, 🇧🇩 🌍. Now I'm a final year student of undergrad Computer Science and Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
 - 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Everything ,
@@ -30,10 +25,20 @@ I’m looking to apply my skills as part of a fast-paced, quality-driven team in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
 
+# Skills 
+
+{
+  languages: ['JavaScript', 'Php', 'Python', 'C'],
+  backend: ['Django'],
+  databases: ['MongoDB', "Sql"],
+  tools: ['Vs code', 'MongoDB Compass', 'Slack'],
+  Cloud: ['Firebase'],
+  Open Source: ['Git, GitHub']
+}
+
 ![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul12&layout=compact)](https://github.com/Ruhul12/github-readme-stats)
 
 
-[![Ruhul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruhul12)](https://github.com/Ruhul12/github-readme-stats)
