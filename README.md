@@ -28,13 +28,13 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 ## {...} Skills 🗽
 
 {
-  languages: ['JavaScript', 'Java', 'Python', 'C'],
-  frontend: ['HTML', 'CSS', 'Bootstrap']
-  backend: ['Django'],
-  databases: ['MongoDB', "Sql"],
-  tools: ['Vs code', 'MongoDB Compass', 'Slack'],
-  Cloud: ['Firebase'],
-  Open Source: ['Git, GitHub']
+    languages: ['JavaScript', 'Java', 'Python', 'C'],
+    frontend: ['HTML', 'CSS', 'Bootstrap'],
+    backend: ['Django'],
+    databases: ['MongoDB', "Sql"],
+    tools: ['Vs code', 'MongoDB Compass', 'Slack'],
+    Cloud: ['Firebase'],
+    Open Source: ['Git, GitHub']
 }
 
 ![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
