@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ruhul Amin Parvez
 
 <!--
 **Ruhul12/Ruhul12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +25,18 @@ Currently, I am learning how to improve the performance of progressive web appli
 I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
 - 🔭 I’m currently working on Python Django Web Development,
-- 🌱 I’m currently learning Django,
+- 🌱 I’m currently learning Everything ,
 - 💬 Ask me about #Python #Django
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+- ⚡ Fun fact: I love singing!
 
 [![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12)](https://github.com/Ruhul12/github-readme-stats)
+
+![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&count_private=true)
+![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul12&layout=compact)](https://github.com/Ruhul12/github-readme-stats)
+
+
+[![Ruhul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruhul12)](https://github.com/Ruhul12/github-readme-stats)
