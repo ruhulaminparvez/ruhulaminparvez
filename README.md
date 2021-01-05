@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web4.gif">
+<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/django.gif">
 
 # Ruhul Amin Parvez 😀
 
@@ -33,7 +33,7 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 🛢 **Databases:** ['MongoDB', 'SQL'] <br>
 🛠 **Tools:** ['Vs code', 'MongoDB Compass', 'Slack'] <br>
 🌩 **Cloud:** ['Firebase']<br>
-❄ **Open Source:** ['Git, GitHub']
+❄ **Open Source:** ['Git', 'GitHub']
 
 
 ![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
