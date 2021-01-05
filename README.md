@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web4.gif">
 
-# Ruhul Amin Parvez
+# Ruhul Amin Parvez 😀
 
-Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-learner django developer from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Computer Science and Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
+Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-learner django developer from Dhaka, 🇧🇩. Now I'm a final year student of undergrad Computer Science and Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
 - 🔭 I’m currently working on Django,
 - 🌱 I’m currently learning Django,
