@@ -25,10 +25,11 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
 
-# Skills 
+{...} Skills 🗽
 
 {
-  languages: ['JavaScript', 'Php', 'Python', 'C'],
+  languages: ['JavaScript', 'Java', 'Python', 'C'],
+  frontend: ['HTML', 'CSS', 'Bootstrap']
   backend: ['Django'],
   databases: ['MongoDB', "Sql"],
   tools: ['Vs code', 'MongoDB Compass', 'Slack'],
