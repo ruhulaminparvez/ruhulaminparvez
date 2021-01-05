@@ -29,3 +29,5 @@ I’m looking to apply my skills as part of a fast-paced, quality-driven team in
 - 💬 Ask me about #Python #Django
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+
+[![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12)](https://github.com/Ruhul12/github-readme-stats)
