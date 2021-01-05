@@ -25,7 +25,7 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
 
-{...} Skills 🗽
+## {...} Skills 🗽
 
 {
   languages: ['JavaScript', 'Java', 'Python', 'C'],
