@@ -24,7 +24,7 @@ I love to work with new technologies and developing web applications 🔭.
 Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. 
 I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
-- 🔭 I’m currently working on Django,
+- 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Django,
 - 💬 Ask me about #Python #Django
 - 😄 Pronouns: he/him
