@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web6.gif">
+<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web7.gif">
 
 # Ruhul Amin Parvez 😀
 
