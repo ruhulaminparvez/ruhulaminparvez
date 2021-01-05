@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="250" align="right" src="">
+<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web1.gif">
 
 # Ruhul Amin Parvez
 
