@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 # Ruhul Amin Parvez 😀
 
+![Twitter Follow](https://img.shields.io/twitter/follow/ruhul_dev?color=%231DA1F2&label=Twitter%20&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhul_dev&suffix=%20Followers)](https://twitter.com/ruhul_dev)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ruhul-amin-parvez-787b841aa/)
+[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ruhul_dev/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+
 Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-learner django developer from Dhaka, 🇧🇩 🌍. Now I'm a final year student of undergrad Computer Science and Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
 - 🔭 I’m currently working on Python Django Web Development,
