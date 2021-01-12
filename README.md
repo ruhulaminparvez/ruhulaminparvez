@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-learner django developer from Dhaka, 🇧🇩 🌍. Now I'm a final year student of undergrad Computer Science and Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
+<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/dev.gif">
+
 - 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Everything ,
 - 💬 Ask me about #Python #Django
@@ -33,7 +35,7 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 
 ## Skills 🗽
 
-<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/dev.gif">
+<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
 
 🔥 **Languages:** ['Python', 'Java', 'JavaScript', 'C'] <br>
 ☃ **Frontend:** ['HTML', 'CSS', 'Bootstrap'] <br>
