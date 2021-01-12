@@ -35,7 +35,7 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate and fast-
 
 ## Skills 🗽
 
-<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
+<img width="350" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
 
 🔥 **Languages:** ['Python', 'Java', 'JavaScript', 'C'] <br>
 ☃ **Frontend:** ['HTML', 'CSS', 'Bootstrap'] <br>
