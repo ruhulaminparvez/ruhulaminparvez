@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="250" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/programer.gif">
+<img width="260" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/programer.gif">
 
 # Ruhul Amin Parvez 😀
 
@@ -34,8 +34,6 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate, and fast
 - ⚡ Fun fact: I love singing!
 
 ## Skills 🗽
-
-<img width="300" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
 
 🔥 **Languages:** ['Python', 'Java', 'JavaScript', 'C'] <br>
 ☃ **Frontend:** ['HTML', 'CSS', 'Bootstrap'] <br>
