@@ -31,7 +31,7 @@ Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate, and fast
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
 
-<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/time-management.gif">
+<img width="360" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/time-management.gif">
 
 ## Skills 🗽
 
