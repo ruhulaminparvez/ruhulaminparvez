@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="270" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/programer.gif">
+<img width="270" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/def.gif">
 
 # Ruhul Amin Parvez 😀
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate, and fast-learner Python Django developer from Dhaka, 🇧🇩. Now I'm a final year student of undergrad Computer Science and Engineering. I have a burning desire to put together well-written code that helps to create advanced applications which are fit for purpose, functionally correct, and meets the user’s precise needs. My key strengths include being able to use web-based systems that create a highly interactive user experience. On a personal level, I'm loaded with energy and passion. Right now I would like to join a company where there is a culture of encouragement, respect and teamwork.
 
-<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/dev.gif">
+<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
 
 - 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Everything ,
