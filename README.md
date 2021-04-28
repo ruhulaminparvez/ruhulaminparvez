@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 
-Hi there 👋, My name is Ruhul Amin Parvez. A self-taught, passionate, and fast-learner Python Django developer from Dhaka, 🇧🇩. Now I'm a final year student of undergrad Computer Science and Engineering. I have a burning desire to put together well-written code that helps to create advanced applications which are fit for purpose, functionally correct, and meets the user’s precise needs. My key strengths include being able to use web-based systems that create a highly interactive user experience. On a personal level, I'm loaded with energy and passion. Right now I would like to join a company where there is a culture of encouragement, respect and teamwork.
+Hi there 👋, I'm Ruhul Amin Parvez, a student currently studying 4th year of computer science in Daffodil International University. 👨‍🎓
+Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy python and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
 
 <img width="450" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
 
