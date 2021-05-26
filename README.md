@@ -39,7 +39,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 🔥 **Languages:** ['Python', 'Java', 'JavaScript', 'C'] <br>
 ☃ **Frontend:** ['HTML', 'CSS', 'Bootstrap'] <br>
 ⛄ **Backend:** ['Django'] <br>
-🛢 **Databases:** ['PostgreSQL', 'SQL'] <br>
+🛢 **Databases:** ['PostgreSQL', 'MySQL'] <br>
 🛠 **Tools:** ['Vs code', 'Pycharm', 'MongoDB Compass', 'Slack'] <br>
 🌩 **Cloud:** ['Firebase']<br>
 ❄ **Open Source:** ['Git', 'GitHub']
