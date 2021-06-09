@@ -48,11 +48,28 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <br>
-   **Frameworks and Libraries:**  <br>
-🛢 **Databases:** ['PostgreSQL', 'MySQL'] <br>
-🛠 **Tools:** ['Vs code', 'Pycharm', 'MongoDB Compass', 'Slack'] <br>
-🌩 **Cloud:** ['Firebase']<br>
-❄ **Open Source:** ['Git', 'GitHub']
+### ⚡ Frameworks and Libraries:  
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+<br>
+### 🛢 Databases:
+<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+<br>
+### 🌩 Cloud:
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+<br>
+### 🛠 Tools and Software: 
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
+<br>
+### ❄ Open Source:
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 
 
 ![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
