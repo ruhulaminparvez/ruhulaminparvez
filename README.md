@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Hi there 👋, I'm Ruhul Amin Parvez, a student currently studying 4th year of computer science in Daffodil International University. 👨‍🎓
 Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy python and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
 
-<img width="450" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
+<img width="350" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
 
 - 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Everything ,
@@ -37,7 +37,9 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 ## Skills 🗽
 
 🔥 **Languages:** ['Python', 'Java', 'JavaScript', 'C'] <br>
-☃ **Frontend:** ['HTML', 'CSS', 'Bootstrap'] <br>
+☃ **Frontend:** <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
+<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+<br>
 ⛄ **Backend:** ['Django'] <br>
 🛢 **Databases:** ['PostgreSQL', 'MySQL'] <br>
 🛠 **Tools:** ['Vs code', 'Pycharm', 'MongoDB Compass', 'Slack'] <br>
