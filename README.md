@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 Hi there 👋, I'm Ruhul Amin Parvez, a student currently studying 4th year of computer science in Daffodil International University. 👨‍🎓
 Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy python and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
 
-<img width="380" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
-
 - 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Everything ,
 - 💬 Ask me about #Python #Django
