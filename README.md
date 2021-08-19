@@ -77,10 +77,10 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 
-![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=Ruhul12&show_icons=true)
+![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul12&layout=compact)](https://github.com/Ruhul12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminparvez&layout=compact)](https://github.com/ruhulaminparvez/github-readme-stats)
 
 
 
