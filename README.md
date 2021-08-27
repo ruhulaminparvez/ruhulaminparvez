@@ -46,7 +46,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <br>
-### ⚡ Frameworks and Libraries:  
+### ⚡ Frameworks, Libraries and Modules:  
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2325A162.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
