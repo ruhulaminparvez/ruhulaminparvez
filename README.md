@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi there 👋, I'm Ruhul Amin Parvez, a student currently studying 4th year of computer science in Daffodil International University. 👨‍🎓
-Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy python and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
+Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
 
 - 🔭 I’m currently working on Python Django Web Development,
 - 🌱 I’m currently learning Everything ,
