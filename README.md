@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Hi there 👋, I'm Ruhul Amin Parvez, a student currently studying 4th year of computer science in Daffodil International University. 👨‍🎓
 Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
 
-- 🔭 I’m currently working on Python Django Web Development,
+- 🔭 I’m currently working on Full Stack Web Development,
 - 🌱 I’m currently learning Everything ,
 - 💬 Ask me about #Python #Django
 - 😄 Pronouns: he/him
