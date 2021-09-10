@@ -50,8 +50,8 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 #### 🏂 MarkUp, Style-Sheet and Pre-Processor:
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 ![Sass](https://img.shields.io/twitter/url?label=Sass&logo=sass&style=social&url=https%3A%2F%2Fgithub.com%2Fruhulaminparvez%2F)
+<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <br>
 #### 🛢 Databases:
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
