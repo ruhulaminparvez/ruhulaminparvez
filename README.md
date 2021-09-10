@@ -56,18 +56,18 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <br>
-### 🌩 Cloud:
+#### 🌩 Cloud:
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-E8E8E8?logo=Netlify&logoColor=black"></a>
 <br>
-### 🛠 Tools and Software: 
+#### 🛠 Tools and Software: 
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-18A497?logo=PyCharm&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <br>
-### ❄ Open Source:
+#### ❄ Open Source:
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
