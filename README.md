@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="255" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/web4.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
+
+<img width="255" align="right" src="gif/web4.gif">
 
 # Ruhul Amin Parvez 😀
+
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/ruhulaminparvez)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ruhul-amin-parvez-787b841aa/)
@@ -73,11 +77,13 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhulaminparvez" alt="ruhulaminparvez" /></a> </p>
 
-![Ruhul's github stats](https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminparvez&show_icons=true&locale=en&layout=compact" alt="ruhulaminparvez" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true&locale=en" alt="ruhulaminparvez" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminparvez&layout=compact)](https://github.com/ruhulaminparvez/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminparvez&" alt="ruhulaminparvez" /></p>
 
 
 
