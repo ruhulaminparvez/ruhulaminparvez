@@ -79,11 +79,13 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhulaminparvez" alt="ruhulaminparvez" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminparvez&show_icons=true&locale=en&layout=compact" alt="ruhulaminparvez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminparvez&show_icons=true&locale=en&layout=compact" alt="ruhulaminparvez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true&locale=en" alt="ruhulaminparvez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminparvez&" alt="ruhulaminparvez" /></p>
+
+
 
 
 
