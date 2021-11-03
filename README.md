@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img width="255" align="right" src="https://github.com/ruhulaminparvez/ruhulaminparvez/blob/main/gif/web4.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
 
 # Ruhul Amin Parvez 😀
 
@@ -30,9 +31,6 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 - 💬 Ask me about #Python #Django
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
 
 ## My-Stack...💻
 
