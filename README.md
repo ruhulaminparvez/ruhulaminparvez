@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ruhul_dev/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, I'm Ruhul Amin Parvez, a student currently studying 4th year of computer science in Daffodil International University. 👨‍🎓
+Hi there 👋, I'm Ruhul Amin Parvez, a student of computer science in Daffodil International University. 👨‍🎓
 Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
 
 - 🔭 I’m currently working on Full Stack Web Development,
