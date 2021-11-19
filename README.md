@@ -83,6 +83,6 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminparvez&" alt="ruhulaminparvez" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true&locale=en" alt="ruhulaminparvez" /></p>
 </div>
 
