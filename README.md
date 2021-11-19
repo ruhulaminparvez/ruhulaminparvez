@@ -78,10 +78,6 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminparvez&show_icons=true&locale=en&layout=compact" alt="ruhulaminparvez" /></p>
 </div>
 
-<div align="center> 
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true&locale=en" alt="ruhulaminparvez" /></p>
-</div>
-
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true&locale=en" alt="ruhulaminparvez" /></p>
 </div>
