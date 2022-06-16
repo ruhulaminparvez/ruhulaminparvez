@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
+<img width="255" align="right" src="https://github.com/ruhulaminparvez/ruhulaminparvez/blob/main/gif/web4.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
 
 # Ruhul Amin Parvez 😀
 
@@ -23,8 +24,6 @@ Here are some ideas to get you started:
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ruhul_dev/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-
-<img width="255" align="right" src="https://github.com/ruhulaminparvez/ruhulaminparvez/blob/main/gif/web4.gif">
 
 Hi there 👋, I'm Ruhul Amin Parvez, a student of computer science in Daffodil International University. 👨‍🎓
 Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
