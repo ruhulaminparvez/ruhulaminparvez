@@ -39,6 +39,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 #### 🔥 Languages: 
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <br>
@@ -47,11 +48,13 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 ![Sass](https://img.shields.io/twitter/url?label=Sass&logo=sass&style=social&url=https%3A%2F%2Fgithub.com%2Fruhulaminparvez%2F)
 <br>
 
 #### ❄ Backend Frameworks:
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2325A162.svg?logo=django&logoColor=white"></a>
+<a href="#"><img alt="Django REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white"></a>
 <br>
 
 #### ⭐ ML Libraries:  
