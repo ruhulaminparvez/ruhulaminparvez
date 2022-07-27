@@ -77,7 +77,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 #### 🌩 Cloud:
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-E8E8E8?logo=Netlify&logoColor=black"></a>
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-F1F1F1.svg?logo=netlify&logoColor=#00C7B7"></a>
 <br>
 
 #### 🛠 Tools and Software: 
