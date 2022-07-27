@@ -44,7 +44,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <br>
 
-#### ❄ Frontend Frameworks, Libraries and Pre-Processor:  
+#### 🎨 Frontend Frameworks, Libraries and Pre-Processor:  
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
