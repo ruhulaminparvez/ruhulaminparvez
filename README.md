@@ -37,10 +37,10 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 ## My-Stack...💻
 
 #### 🔥 Languages: 
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%230081CB.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%236DB33F.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <br>
 
@@ -54,7 +54,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 #### ⚡ Backend Frameworks:
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2325A162.svg?logo=django&logoColor=white"></a>
-<a href="#"><img alt="Django REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white"></a>
+<a href="#"><img alt="Django REST" src="https://img.shields.io/badge/Django-REST-%23d74c4c.svg?logo=django&logoColor=white"></a>
 <br>
 
 #### ⭐ ML Libraries:  
