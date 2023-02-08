@@ -82,11 +82,8 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <br>
 
 #### 🛠 Tools and Software: 
-<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-18A497?logo=PyCharm&logoColor=white"></a>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Insomania" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white"></a>
 <br>
 
 #### ❄ Open Source:
