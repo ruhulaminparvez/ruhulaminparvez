@@ -1,5 +1,5 @@
 <!--
-**Ruhul12/Ruhul12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ruhulaminparvez/ruhulaminparvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -56,7 +56,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2325A162.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/Django-REST-%23d74c4c.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
 <br>
 
 #### 🛢 Databases:
