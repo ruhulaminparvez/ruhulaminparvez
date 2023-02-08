@@ -55,6 +55,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 #### ⚡ Backend Frameworks:
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2325A162.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/Django-REST-%23d74c4c.svg?logo=django&logoColor=white"></a>
+<a href="#"><img alt="Django" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
 <br>
 
 #### 🛢 Databases:
@@ -65,7 +66,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 #### 🔎 Query Language
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%E10098.svg?logo=graphql&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
 <br>
 
 #### ⭐ ML Libraries:  
