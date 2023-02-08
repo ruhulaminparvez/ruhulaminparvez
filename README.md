@@ -45,8 +45,9 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <br>
 
 #### 🎨 Frontend Frameworks, Libraries and Pre-Processor:  
-<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%2320232a.svg?logo=next.js&logoColor=white"></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 ![Sass](https://img.shields.io/twitter/url?label=Sass&logo=sass&style=social&url=https%3A%2F%2Fgithub.com%2Fruhulaminparvez%2F)
@@ -61,12 +62,6 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn%20-%2320232a.svg?logo=scikit-learn&logoColor=%2361DAFB"></a>
-<br>
-
-#### 🏂 MarkUps and Style-Sheet:
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <br>
 
 #### 🛢 Databases:
