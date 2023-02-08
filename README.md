@@ -44,7 +44,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <br>
 
 #### 🎨 Frontend Frameworks, Libraries and Pre-Processor:  
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React.js-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%2320232a.svg?logo=next.js&logoColor=white"></a>
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
