@@ -55,7 +55,8 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 #### ⚡ Backend Frameworks:
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2325A162.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/Django-REST-%23d74c4c.svg?logo=django&logoColor=white"></a>
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
 <br>
 
 #### 🛢 Databases:
