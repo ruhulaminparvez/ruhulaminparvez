@@ -41,7 +41,6 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-87CF3E.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <br>
 
 #### 🎨 Frontend Frameworks, Libraries and Pre-Processor:  
@@ -58,16 +57,21 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/Django-REST-%23d74c4c.svg?logo=django&logoColor=white"></a>
 <br>
 
-#### ⭐ ML Libraries:  
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn%20-%2320232a.svg?logo=scikit-learn&logoColor=%2361DAFB"></a>
-<br>
-
 #### 🛢 Databases:
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2B4C80.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<br>
+
+#### 🔎 Query Language
+<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%E10098.svg?logo=graphql&logoColor=white"></a>
+<br>
+
+#### ⭐ ML Libraries:  
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn%20-%2320232a.svg?logo=scikit-learn&logoColor=%2361DAFB"></a>
 <br>
 
 #### 🌩 Cloud:
