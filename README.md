@@ -76,12 +76,9 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn%20-%2320232a.svg?logo=scikit-learn&logoColor=%2361DAFB"></a>
 <br>
 
-#### 🌩 Cloud:
+#### 🌩 Cloud and Tools/Software:
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-143055.svg?logo=netlify&logoColor=#00C7B7"></a>
-<br>
-
-#### 🛠 Tools and Software: 
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Insomania" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white"></a>
 <br>
