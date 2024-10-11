@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Ruhul Amin Parvez 😀
 
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=twitter&logoColor=4fc3f7)](https://twitter.com/ruhulaminparvez)
+[![X Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=x&logoColor=4fc3f7)](https://x.com/ruhulaminparvez)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ruhul-amin-parvez/)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ruhul_amin_parvez/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
