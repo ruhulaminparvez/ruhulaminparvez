@@ -100,5 +100,5 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 </div>
 
 <div align="center">
-  <a href="https://app.daily.dev/ruhulaminparvez"><img src="https://api.daily.dev/devcards/v2/yEhEG7lBQDGWtzN8DZulu.png?type=default&r=ilf" width="356" alt="Ruhul Amin Parvez's Dev Card"/></a>
+  <a href="https://app.daily.dev/ruhulaminparvez"><img src="https://api.daily.dev/devcards/v2/yEhEG7lBQDGWtzN8DZulu.png?type=default&r=5bk" width="356" alt="Ruhul Amin Parvez's Dev Card"/></a>
 </div>
