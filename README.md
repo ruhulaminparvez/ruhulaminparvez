@@ -88,10 +88,6 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 <div align="center">
-  <a href="https://app.daily.dev/ruhulaminparvez"><img src="https://api.daily.dev/devcards/v2/yEhEG7lBQDGWtzN8DZulu.png?type=default&r=ilf" width="356" alt="Ruhul Amin Parvez's Dev Card"/></a>
-</div>
-
-<div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminparvez&show_icons=true&locale=en&layout=compact" alt="ruhulaminparvez" /></p>
 </div>
 
@@ -101,4 +97,8 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 <div align="center"> 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminparvez&" alt="ruhulaminparvez" /></p>
+</div>
+
+<div align="center">
+  <a href="https://app.daily.dev/ruhulaminparvez"><img src="https://api.daily.dev/devcards/v2/yEhEG7lBQDGWtzN8DZulu.png?type=default&r=ilf" width="356" alt="Ruhul Amin Parvez's Dev Card"/></a>
 </div>
