@@ -33,7 +33,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 - 🌱 I’m currently learning Docker, Micro-Services,
 - 💬 Ask me about #Web-Development
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play Cricket!
+- ⚡ Fun fact: I love to play Chess!
 
 ## My-Stack...💻
 
