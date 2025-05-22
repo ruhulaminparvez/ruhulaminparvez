@@ -26,16 +26,17 @@ Here are some ideas to get you started:
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1877F2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ruhulameenparvez)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, I'm Ruhul Amin Parvez, a student of computer science in Daffodil International University.
-Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code.
+Hi there 👋, I'm a <strong>Frontend Developer</strong> with 3.5 years of hands-on experience and a <strong>Computer Science</strong> student at <strong>Daffodil International University</strong>. I’m passionate about building intuitive user interfaces, learning emerging technologies, and helping others in the dev community.
+
+Take a peek at the projects I’ve built — I love contributing to open-source, answering forum questions, and leveling up my skills every day.
 
 - 🔭 I’m currently working on Full Stack Web Development,
-- 🌱 I’m currently learning Docker, Micro-Services,
-- 💬 Ask me about #Web-Development
+- 🌱 I’m currently learning Docker & Microservices Architecture,
+- 💬 Ask me about Frontend Development or Web Technologies
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play Chess!
+- ⚡ Fun fact: I’m a huge fan of chess — strategy and logic all the way!
 
-## My-Stack...💻
+## What’s in My Brain Cache🧠
 
 #### 🔥 Languages: 
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
