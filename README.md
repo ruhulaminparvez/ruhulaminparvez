@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="255" align="right" src="https://github.com/ruhulaminparvez/ruhulaminparvez/blob/main/gif/web4.gif">
+<!-- <img width="255" align="right" src="https://github.com/ruhulaminparvez/ruhulaminparvez/blob/main/gif/web4.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin-white&logoColor=4fc3f7)](https://www.linkedin.com/in/ruhulaminparvez)
 [![LeetCode Profile](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=212121&logo=leetcode&logoColor=ffcc80)](https://www.leetcode.com/u/ruhulaminparvez)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ruhulameenparvez)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1877F2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ruhulameenparvez)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ruhul15-10419@diu.edu.bd?subject=From%20GitHub&cc=ruhulaminparvez007@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi there 👋, I'm Ruhul Amin Parvez, a student of computer science in Daffodil International University.
@@ -100,5 +101,5 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 </div>
 
 <div align="center">
-  <a href="https://app.daily.dev/ruhulaminparvez"><img src="https://api.daily.dev/devcards/v2/yEhEG7lBQDGWtzN8DZulu.png?type=default&r=5bk" width="356" alt="Ruhul Amin Parvez's Dev Card"/></a>
+  <a href="https://app.daily.dev/ruhulaminparvez"><img src="https://api.daily.dev/devcards/v2/yEhEG7lBQDGWtzN8DZulu.png?type=default&r=fd8" width="356" alt="Ruhul Amin Parvez's Dev Card"/></a>
 </div>
