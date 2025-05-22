@@ -30,8 +30,8 @@ Hi there 👋, I'm a <strong>Frontend Developer</strong> with 3.5 years of hands
 
 Take a peek at the projects I’ve built — I love contributing to open-source, answering forum questions, and leveling up my skills every day.
 
-- 🔭 I’m currently working on Full Stack Web Development,
-- 🌱 I’m currently learning Docker & Microservices Architecture,
+- 🔭 I’m currently working on Full Stack Web Development
+- 🌱 I’m currently learning Docker & Microservices Architecture
 - 💬 Ask me about Frontend Development or Web Technologies
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’m a huge fan of chess — strategy and logic all the way!
